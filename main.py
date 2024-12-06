@@ -36,7 +36,6 @@ def main():
     # Creat data with RSI
     rsi_data = dd.data_for_RSI_calculate(stock_data)
 
-
     # Return company name by ticker
     name = dd.name_return(ticker)
 
