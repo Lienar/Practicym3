@@ -9,6 +9,6 @@
 ### временной период 6 месяца
 
 ## Результирующий график
-![](https://github.com/Lienar/Practicym2/blob/main/Screens/6mo_GOOGL_RSI.png))
+![](https://github.com/Lienar/Practicym2/blob/main/Screens/6mo_GOOGL_RSI.png)
 
 ========================================================================================
